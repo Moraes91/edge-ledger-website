@@ -50,6 +50,7 @@ img {
     position: fixed;
     top: 0px;
     padding: 0 30px;
+    transition: 0.5s;
 }
 
 .navbar a {
@@ -68,6 +69,11 @@ img {
 
 .navbar .logo {
     font-weight: 400;
+}
+
+.navbar.top {
+    background: transparent;
+    opacity: 0.9;
 }
 
 
