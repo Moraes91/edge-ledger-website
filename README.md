@@ -21,7 +21,7 @@
 
 ## 📖 Sobre 
 
-EdgerLedger é um website responsivo institucional perfeito para empresas de negócios.
+EdgerLedger é um website template responsivo institucional perfeito para empresas de negócios. Nesse projeto foi implementado apenas o Frontend da aplicação para aprendizagem e fixação dos conhecimentos em HTML e CSS.
 
 ---
 
