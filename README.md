@@ -29,7 +29,7 @@ EdgerLedger é um website template responsivo institucional perfeito para empres
 O projeto está sendo desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS3
--JQuery
+- JQuery
 
 ---
 
